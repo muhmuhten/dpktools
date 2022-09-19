@@ -1,0 +1,3 @@
+=head1 dpktools
+
+Reversibly explodes a kind of obscure dumb packed binary format.
